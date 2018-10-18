@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.1:1", "", "UMAYA", "EARoot/EA1/EA1.htm", "175.png", "1", "0", "", "Logical diagram0","{2A975B95-8494-4a9a-9DE6-72BD1CA6962F}");
+tocTab[tocTab.length] = new Array("0.1:2", "", "fileReader", "EARoot/EA1/EA4.htm", "5.png", "E3", "0", "", "Class0","{C975F2F4-477F-4b9d-8750-217DF1FFD806}");
+tocTab[tocTab.length] = new Array("0.1:3", "", "PackageBody", "EARoot/EA1/EA5.htm", "5.png", "E6", "0", "", "Class0","{9735ED23-A57E-4031-AB1E-B008B642DA9C}");
+tocTab[tocTab.length] = new Array("0.1:4", "", "PackageDeclaration", "EARoot/EA1/EA6.htm", "5.png", "E5", "0", "", "Class0","{30195F11-510B-4886-A5ED-06334DF06542}");
+tocTab[tocTab.length] = new Array("0.1:5", "", "ProcedureBody", "EARoot/EA1/EA7.htm", "5.png", "E7", "0", "", "Class0","{9D522DF4-2930-4a19-ADF5-ABA82086F99B}");
+tocTab[tocTab.length] = new Array("0.1:6", "", "«main class» Umaya", "EARoot/EA1/EA9.htm", "5.png", "E2", "0", "", "Class0","{472FA597-45BC-4eb3-8F92-151BB0B58FAC}");
+tocTab[tocTab.length] = new Array("0.1:7", "", "«abstract» Unit", "EARoot/EA1/EA10.htm", "5.png", "E4", "0", "", "Class0","{A6FCBFC4-E98B-4133-8BA8-E0A27E5544A4}");
